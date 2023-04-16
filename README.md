@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nelson Joseph.
-- 👀 I’m interested in Python Programming.
+- 👀 I’m interested in collabarating with Machine learning and Computer Vision projects.
 - 🌱 I’m a Masters in Data Science student at University of Texas at Arlington.
 - 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me nelsonjoseph123@gmail.com
