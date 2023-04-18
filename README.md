@@ -40,7 +40,7 @@ My main projects include:
 Recent 4 projects:
 1) Convolutional neural network using keras and tensorflow
 2) CNN with removal and adding layer feature
-3) DCGAN using tensorflow
+
 
 
 Current projects:
@@ -48,3 +48,4 @@ Current projects:
 2) Camscanner like app creation
 3) Gym recommendation app
 4) Decision Tree and Random Forest Manual Implementaton
+5) DCGAN using tensorflow
