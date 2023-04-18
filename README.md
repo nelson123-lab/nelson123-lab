@@ -37,7 +37,11 @@ My main projects include:
 1) AI response drone for search and rescue
 2) Gender based cleaning algorithms
 
+Recent 4 projects:
+1) Convolutional neural network using keras and tensorflow
+2) 
 Current projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
 3) Gym recommendation app
+4) Decision Tree and Random Forest Manual Implementaton
