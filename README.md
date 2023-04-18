@@ -40,7 +40,9 @@ My main projects include:
 Recent 4 projects:
 1) Convolutional neural network using keras and tensorflow
 2) CNN with removal and adding layer feature
-3) 
+3) DCGAN using tensorflow
+
+
 Current projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
