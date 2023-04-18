@@ -33,4 +33,11 @@ Tech Stack
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
+My main projects include:
+1) AI response drone for search and rescue
+2) Gender based cleaning algorithms
 
+Current projects:
+1) Image extraction from pdf using python
+2) Camscanner like app creation
+3) Gym recommendation app
