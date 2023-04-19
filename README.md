@@ -49,3 +49,4 @@ Current projects:
 3) Gym recommendation app
 4) Decision Tree and Random Forest and Ada boost implemetation from scratch.
 5) DCGAN using tensorflow
+6) Encrypting and decrypting a python file
