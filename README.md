@@ -49,3 +49,4 @@ Current projects:
 4) Decision Tree and Random Forest and Ada boost implemetation from scratch.
 5) DCGAN using tensorflow
 6) Encrypting and decrypting a python file
+7) Image Compression using python
