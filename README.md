@@ -41,8 +41,6 @@ Recent projects:
 2) CNN with removal and adding layer feature
 3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
 
-
-
 Current projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
@@ -50,3 +48,7 @@ Current projects:
 4) DCGAN using tensorflow
 5) Encrypting and decrypting a python file
 6) Image Compression using python
+
+### My GitHub Stats
+<!-- Show your GitHub stats using GitHub Readme Stats -->
+[![nelson123-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson123-lab&theme=dracula&show_icons=true&count_private=true)](https://github.com/nelson123-lab)
