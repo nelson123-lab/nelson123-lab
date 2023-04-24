@@ -45,7 +45,7 @@ Current projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
 3) Gym recommendation app
-4) DCGAN using tensorflow
+4) DCGAN
 5) Encrypting and decrypting a python file
 6) Image Compression using python
 
