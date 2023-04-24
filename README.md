@@ -40,6 +40,7 @@ Recent projects:
 1) Convolutional neural network using keras and tensorflow
 2) CNN with removal and adding layer feature
 3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
+4) Image Compression using python
 
 Current projects:
 1) Image extraction from pdf using python
@@ -47,7 +48,7 @@ Current projects:
 3) Gym recommendation app
 4) DCGAN
 5) Encrypting and decrypting a python file
-6) Image Compression using python
+6) Stabilizing videos using deep learning python.
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
