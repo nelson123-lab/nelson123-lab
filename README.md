@@ -48,7 +48,7 @@ Current projects:
 3) Gym recommendation app
 4) DCGAN
 5) Encrypting and decrypting a python file
-6) Stabilizing videos using deep learning python.
+6) Stabilizing videos using deep learning python different types
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
