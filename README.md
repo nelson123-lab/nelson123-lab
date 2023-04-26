@@ -41,15 +41,15 @@ Recent projects:
 2) CNN with removal and adding layer feature
 3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
 4) Image Compression using python
+5) Training DCGAN using python
 
 Current projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
 3) Gym recommendation app
-4) DCGAN
-5) Encrypting and decrypting a python file
-6) Stabilizing videos using deep learning python different types
-7) Personal projects on GAN.
+4) Encrypting and decrypting a python file
+5) Stabilizing videos using deep learning python different types
+6) Personal projects on GAN.
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
