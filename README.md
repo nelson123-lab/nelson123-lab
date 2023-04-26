@@ -49,6 +49,7 @@ Current projects:
 4) DCGAN
 5) Encrypting and decrypting a python file
 6) Stabilizing videos using deep learning python different types
+7) Personal projects on GAN.
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
