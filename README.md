@@ -43,6 +43,7 @@ Recent projects:
 3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
 4) Image Compression using python
 5) Training DCGAN using python
+6) dfkdfjkd
 
 Current projects:
 1) Image extraction from pdf using python
