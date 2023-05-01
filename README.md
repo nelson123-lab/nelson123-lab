@@ -36,7 +36,7 @@ Tech Stack
 My main projects include:
 1) AI response drone for search and rescue
 2) Gender based cleaning algorithms
-3) Decsion tree, Random Forest and Ada boost.
+3) Mask recognition and alertness system for public safety during covid.
 
 Recent projects:
 1) Convolutional neural network using keras and tensorflow
