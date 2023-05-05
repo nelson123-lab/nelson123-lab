@@ -50,9 +50,8 @@ Current projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
 3) Gym recommendation app
-4) Encrypting and decrypting a python file
-5) Stabilizing videos using deep learning python different types
-7) Chatgpt Mini using Hugging Face pretrained models.
+4) Stabilizing videos using deep learning python different types
+5) Chatgpt Mini using Hugging Face pretrained models.
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
