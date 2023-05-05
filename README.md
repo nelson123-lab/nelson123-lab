@@ -44,6 +44,7 @@ Recent projects:
 3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
 4) Image Compression using python
 5) Training DCGAN using python
+6) DCGAN
 
 Current projects:
 1) Image extraction from pdf using python
@@ -52,7 +53,7 @@ Current projects:
 4) Encrypting and decrypting a python file
 5) Stabilizing videos using deep learning python different types
 6) Personal projects on GAN.
-7) DCGAN
+7) Chatgpt Mini using Hugging Face pretrained models.
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
