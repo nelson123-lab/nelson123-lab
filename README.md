@@ -52,7 +52,6 @@ Current projects:
 3) Gym recommendation app
 4) Encrypting and decrypting a python file
 5) Stabilizing videos using deep learning python different types
-6) Personal projects on GAN.
 7) Chatgpt Mini using Hugging Face pretrained models.
 
 ### My GitHub Statistics
