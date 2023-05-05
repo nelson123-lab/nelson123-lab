@@ -52,6 +52,7 @@ Current projects:
 3) Gym recommendation app
 4) Stabilizing videos using deep learning python different types
 5) Chatgpt Mini using Hugging Face pretrained models.
+6) Stable diffusion implementation 
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
