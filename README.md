@@ -56,4 +56,4 @@ Current projects:
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
-![nelson123-lab's GitHub statistics](https://nelson123-lab.vercel.app/api?username=nelson123-lab&theme=gradient&show_icons=true)
+![nelson123-lab's GitHub statistics](https://github-readme-stats.vercel.app/api?username=nelson123-lab&count_private=true)
