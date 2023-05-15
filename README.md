@@ -49,7 +49,7 @@ Recent projects:
 Current projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
-3) Gym recommendation app
+3) TailorSweat
 4) Stabilizing videos using deep learning python different types
 5) Chatgpt Mini using Hugging Face pretrained models.
 6) Stable diffusion implementation 
