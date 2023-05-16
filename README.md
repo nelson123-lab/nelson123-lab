@@ -51,7 +51,7 @@ Current projects:
 2) Camscanner like app creation
 3) TailorSweat
 4) Stabilizing videos using deep learning python different types
-5) Chatgpt Mini using Hugging Face pretrained models.
+5) Text Summarization using BART.
 6) Stable diffusion implementation 
 
 ### My GitHub Statistics
