@@ -53,6 +53,7 @@ Current projects:
 4) Stabilizing videos using deep learning python different types
 5) Text Summarization using BART.
 6) Stable diffusion implementation 
+7) Personal Project
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
