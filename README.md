@@ -45,15 +45,18 @@ Recent projects:
 4) Image Compression using python
 5) Training DCGAN using python
 6) DCGAN
+7) Text Summarization using BART
+8) Stabilizing videos using deep learning python different types
 
-Current projects:
+Active projects:
 1) Image extraction from pdf using python
 2) Camscanner like app creation
 3) TailorSweat
-4) Stabilizing videos using deep learning python different types
-5) Text Summarization using BART.
-6) Stable diffusion implementation 
-7) Personal Project
+4) Stable diffusion implementation 
+5) Personal Project
+6) Lane-Detection-and-Segmentation-for-Autonomous-Vehicles
+7) Object-Detection-and-Tracking-for-Autonomous-Vehicles
+8) Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans
 
 ### My GitHub Statistics
 <!-- Show your GitHub stats using GitHub Readme Stats -->
