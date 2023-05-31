@@ -53,7 +53,7 @@ Active projects:
 2) Camscanner like app creation
 3) TailorSweat
 4) Stable diffusion implementation 
-5) Personal Project
+5) Personal Projects
 6) Lane-Detection-and-Segmentation-for-Autonomous-Vehicles
 7) Object-Detection-and-Tracking-for-Autonomous-Vehicles
 8) Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans
