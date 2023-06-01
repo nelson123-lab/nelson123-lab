@@ -59,6 +59,4 @@ Active projects:
 8) Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans
 
 ### My GitHub Statistics
-<!-- Show your GitHub stats using GitHub Readme Stats -->
-![nelson123-lab's GitHub statistics](https://github-readme-stats.vercel.app/api?username=nelson123-lab&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nelson123-lab&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
