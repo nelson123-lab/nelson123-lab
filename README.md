@@ -34,9 +34,9 @@ Tech Stack
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
 My main projects include:
-1) AI response drone for search and rescue
-2) Gender based cleaning algorithms
-3) Mask recognition and alertness system for public safety during covid.
+1) Swiftlex
+2) JournalTree
+3) Tailorsweat
 
 Recent projects:
 1) Convolutional neural network using keras and tensorflow
