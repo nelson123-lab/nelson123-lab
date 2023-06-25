@@ -49,14 +49,13 @@ Recent projects:
 8) Stabilizing videos using deep learning python different types
 
 Active projects:
-1) Image extraction from pdf using python
-2) Camscanner like app creation
+1) Swiftlex 
+2) Journal Tree
 3) TailorSweat
 4) Stable diffusion implementation 
-5) Personal Projects
-6) Lane-Detection-and-Segmentation-for-Autonomous-Vehicles
-7) Object-Detection-and-Tracking-for-Autonomous-Vehicles
-8) Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans
+5) Lane-Detection-and-Segmentation-for-Autonomous-Vehicles
+6) Object-Detection-and-Tracking-for-Autonomous-Vehicles
+7) Automated-Segmentation-of-Brain-Tumors-in-MRI-Scans
 
 ### My GitHub Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=nelson123-lab&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
