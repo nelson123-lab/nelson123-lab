@@ -43,10 +43,9 @@ Recent projects:
 2) CNN with removal and adding layer feature
 3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
 4) Image Compression using python
-5) Training DCGAN using python
-6) DCGAN
-7) Text Summarization using BART
-8) Stabilizing videos using deep learning python different types
+5) DCGAN
+6) Text Summarization using BART
+7) Stabilizing videos using deep learning python different types
 
 Active projects:
 1) Swiftlex 
