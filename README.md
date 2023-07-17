@@ -42,14 +42,13 @@ Recent projects:
 1) Convolutional neural network using keras and tensorflow
 2) CNN with removal and adding layer feature
 3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
-4) Image Compression using python
+4) Journal Tree
 5) DCGAN
 6) Text Summarization using BART
 7) Stabilizing videos using deep learning python different types
 
 Active projects:
 1) Swiftlex 
-2) Journal Tree
 3) TailorSweat
 4) Stable diffusion implementation 
 5) Lane-Detection-and-Segmentation-for-Autonomous-Vehicles
