@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me nelsonjoseph123@gmail.com
 - 🌱 I am open for internships in data science domain.
-- [My Resume](https://drive.google.com/file/d/1c06mGLgg2_1LoUb-pBZuJ_eLR48Wp4Qu/view?usp=sharing)
+- [My Data Science Resume](https://drive.google.com/file/d/1Rd6f3D6S-rna4QB_3g0qTXwNdhEAXj2x/view?usp=sharing)
 
 [![Linkein](https://img.shields.io/badge/-Linkedin-black.svg?style=flat-square&logo=linkedin&colorB=255)](https://www.linkedin.com/in/nelsonjoseph123/)
 [![Youtube](https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=Youtube&colorB=900)](https://www.youtube.com/channel/UCj-j1k_3vC6F1rVgrEhDF7g)
