@@ -38,6 +38,7 @@ Tech Stack
 My main projects include:
 1) Swiftlex
 2) JournalTree
+3) Hive
 
 Recent projects:
 1) Convolutional neural network using keras and tensorflow
