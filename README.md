@@ -39,20 +39,5 @@ My main projects include:
 2) JournalTree
 3) Hive
 
-Recent projects:
-1) Convolutional neural network using keras and tensorflow
-2) CNN with removal and adding layer feature
-3) Decision Tree and Random Forest and Ada boost implemetation from scratch.
-4) Journal Tree
-5) DCGAN
-6) Text Summarization using BART
-7) Stabilizing videos using deep learning python different types
-
-Active projects:
-1) Swiftlex 
-2) TailorSweat
-3) Stable diffusion implementation 
-
-
 ### My GitHub Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=nelson123-lab&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
