@@ -34,10 +34,12 @@ Tech Stack
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-11557C?style=flat-square&logo=matplotlib&logoColor=white)](#)
 
-My main projects include:
+My Recent projects include:
 1) Swiftlex
 2) JournalTree
 3) Hive
+4) JackAI
+5) CoinSage
 
 ### My GitHub Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=nelson123-lab&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
