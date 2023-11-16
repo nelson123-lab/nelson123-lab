@@ -8,6 +8,7 @@
 [![Linkein](https://img.shields.io/badge/-Linkedin-black.svg?style=flat-square&logo=linkedin&colorB=255)](https://www.linkedin.com/in/nelsonjoseph123/)
 [![Youtube](https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=Youtube&colorB=900)](https://www.youtube.com/channel/UCj-j1k_3vC6F1rVgrEhDF7g)
 [![Medium](https://img.shields.io/badge/-Medium-black.svg?style=flat-square&logo=Medium&colorB=000)](https://medium.com/me/stories/public)
+[![Devpost](https://img.shields.io/badge/-Devpost-blue.svg?style=flat-square&logo=Devpost&colorB=080)](https://devpost.com/nelson123-lab?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 <!---
 nelson123-lab/nelson123-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -33,9 +34,10 @@ Tech Stack
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-11557C?style=flat-square&logo=matplotlib&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4479A1?style=flat-square&logo=mongodb&logoColor=green)](#)
 
 My Recent Hackathon projects include:
-1) Swiftlex
+1) Simplifin
 2) JournalTree
 3) Hive
 4) JackAI
