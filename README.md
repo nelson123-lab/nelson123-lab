@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nelson Joseph.
 - 👀 I’m interested in collabarating with Machine learning and Computer Vision projects.
-- 🌱 I’m a Masters in Data Science student at University of Texas at Arlington.
+- 🌱 I'm a data science master's student at the University of Texas at Arlington.
 - 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me nelsonjoseph123@gmail.com
-- 🌱 I am open for internships in data science domain.
+- 🌱 I am open for full-time roles in data science domain.
 
 [![Linkein](https://img.shields.io/badge/-Linkedin-black.svg?style=flat-square&logo=linkedin&colorB=255)](https://www.linkedin.com/in/nelsonjoseph123/)
 [![Youtube](https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=Youtube&colorB=900)](https://www.youtube.com/channel/UCj-j1k_3vC6F1rVgrEhDF7g)
